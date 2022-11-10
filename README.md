@@ -1,3 +1,3 @@
 # PRS-Projekat
 
-PacMac game made with Java for showing multithreading
+Program koji se bavi simulacijom kretanja više objekata kroz definisanu mapu. 
